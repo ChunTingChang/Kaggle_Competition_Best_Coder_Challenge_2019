@@ -8,7 +8,7 @@
 
 ---
 
-### Public Score: 0.46415 (TOP 33%)
+### Public Score: 0.60403 (TOP 21.5%)
 
 ---
 
@@ -24,3 +24,7 @@ Index: `0` , Name: red jacket windbreaker
 
 Since product title contains keywords from both group `0` and `1`.
 --> groups found: [0,1]
+
+---
+
+[My Kaggle Profie Page](https://www.kaggle.com/chuntinggt)
