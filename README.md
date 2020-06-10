@@ -24,3 +24,7 @@ Index: `0` , Name: red jacket windbreaker
 
 Since product title contains keywords from both group `0` and `1`.
 --> groups found: [0,1]
+
+---
+
+(My Kaggle Profie)[https://www.kaggle.com/chuntinggt]
